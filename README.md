@@ -38,7 +38,7 @@
   ## 🔗 Connect With Me
   
   <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <a href="www.linkedin.com/in/cesar-barrios-46194467" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/cesar-barrios-46194467" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="mailto:cbarrios@cebainnovations.com" style="text-decoration: none;">
