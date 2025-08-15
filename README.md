@@ -3,8 +3,8 @@
   
   # 👨‍💻 Cloud & DevOps Engineer
   
-  <div style="background-color: #000; color: #fff; padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0;">
+  <div style="background-color: #000; color: #00ff00; padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
+    <p style="font-size: 16px; line-height: 1.6; margin: 0; font-family: 'Courier New', monospace;">
       Experienced Cloud and DevOps Engineer with 20+ years of experience designing and
       maintaining scalable, high-performance infrastructure. Proven success in managing cloud
       migrations, implementing IaC, automating CI/CD pipelines, and ensuring operational continuity.
