@@ -2,8 +2,9 @@
 # 👨‍💻 Cesar Barrios - Cloud & DevOps Engineer
 
 <!-- Console section - left aligned like a real terminal -->
-<div style="background-color: #000000; padding: 20px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 25px; line-height: 1.5; border: 2px solid #00ff00;">
-<pre style="color: #00ff00 !important; margin: 0; background: transparent; border: none; font-family: 'Courier New', monospace; font-size: 25px; line-height: 1.5;">
+<div style="background-color: #000000; padding: 20px; border-radius: 8px; margin: 20px auto; max-width: 800px; border: 2px solid #00ff00;">
+<pre style="margin: 0; background: transparent; border: none; font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.5;">
+<code style="color: #00ff00; font-size: 18px; display: block;">
 $ whoami
 Cloud & DevOps Engineer with 20+ years of experience
 
@@ -36,6 +37,7 @@ $ echo "Current mood: ☀️ 72°F"
 Current mood: ☀️ 72°F
 
 $ _
+</code>
 </pre>
 </div>
 
