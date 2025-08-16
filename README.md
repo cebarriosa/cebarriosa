@@ -2,8 +2,8 @@
 # 👨‍💻 Cesar Barrios - Cloud & DevOps Engineer
 
 <!-- Console section - left aligned like a real terminal -->
-<div style="background-color: #000000; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 20px; line-height: 1.4; border: 2px solid #00ff00;">
-<pre style="color: #00ff00; margin: 0; background: transparent; border: none; font-family: inherit; font-size: inherit;">
+<div style="background-color: #000000; padding: 20px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.5; border: 2px solid #00ff00;">
+<pre style="color: #00ff00 !important; margin: 0; background: transparent; border: none; font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.5;">
 $ whoami
 Cloud & DevOps Engineer with 20+ years of experience
 
