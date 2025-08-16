@@ -5,7 +5,8 @@
 </div>
 
 <!-- Console section - left aligned like a real terminal -->
-<div style="background-color: #000; color: #00ff00; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4;">
+<div style="background-color: #000000 !important; color: #00ff00 !important; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4; border: 2px solid #00ff00;">
+<code style="color: #00ff00 !important;">
 $ whoami<br>
 Cloud & DevOps Engineer with 20+ years of experience<br><br>
 
@@ -38,6 +39,7 @@ $ echo "Current mood: ☀️ 72°F"<br>
 Current mood: ☀️ 72°F<br><br>
 
 $ _
+</code>
 </div>
 
 <div align="center">
