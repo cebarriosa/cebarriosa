@@ -2,7 +2,10 @@
   
   # 👨‍💻 Cloud & DevOps Engineer
   
-    <div style="background-color: #000; color: #00ff00; padding: 15px; border-radius: 8px; margin: 20px 0; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4;">
+</div>
+
+<!-- Console section - left aligned like a real terminal -->
+<div style="background-color: #000; color: #00ff00; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4;">
 $ whoami<br>
 Cloud & DevOps Engineer with 20+ years of experience<br><br>
 
@@ -36,6 +39,8 @@ Current mood: ☀️ 72°F<br><br>
 
 $ _
 </div>
+
+<div align="center">
   
   ## 🚀 Skills & Technologies
   
