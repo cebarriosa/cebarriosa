@@ -2,42 +2,40 @@
   
   # 👨‍💻 Cloud & DevOps Engineer
   
-         ```bash
- # @cebarriosa ~ $ whoami
- # Cloud & DevOps Engineer with 20+ years of experience
- 
- # @cebarriosa ~ $ cat skills.txt
- # Cloud Platforms: AWS, GCP, Azure
- # Containers: Docker, Kubernetes
- # IaC: Terraform, Pulumi, Ansible
- # Monitoring: Prometheus, Grafana, ELK Stack
- # Databases: PostgreSQL, MongoDB, MySQL
- # Languages: Python, Shell, JavaScript, Typescript
- # Tools: Git, Jenkins, Linux, GitHub Actions
- 
- # @cebarriosa ~ $ echo $EXPERIENCE
- # 20+ years designing scalable infrastructure
- # Cloud migrations, CI/CD automation, SRE practices
- 
- # @cebarriosa ~ $ cat ~/.bashrc | grep "favorite_food"
- # favorite_food=("BBQ" "Burger" "Pizza" "Sushi")
- # export favorite_food
- 
- # @cebarriosa ~ $ cat ~/.bashrc | grep "hobbies"
- # hobbies=("Football" "Table Tennis" "Cinema" "Beach" "Coding" "Travel")
- # export hobbies
- 
- # @cebarriosa ~ $ systemctl status motivation
- # ● motivation.service - Always Learning & Evolving
- #      Loaded: loaded (/etc/systemd/motivation)
- #      Active: active (running) since 2003-10-01
- #      Status: "Building the future, one deployment at a time"
- 
- # @cebarriosa ~ $ echo "Current mood: $(curl -s wttr.in/?format='%C+%t')"
- # Current mood: ☀️ 72°F
- 
- # @cebarriosa ~ $ _
-     ```
+    <div style="background-color: #000; color: #00ff00; padding: 15px; border-radius: 8px; margin: 20px 0; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4;">
+$ whoami<br>
+Cloud & DevOps Engineer with 20+ years of experience<br><br>
+
+$ cat skills.txt<br>
+Cloud Platforms: AWS, GCP, Azure<br>
+Containers: Docker, Kubernetes<br>
+IaC: Terraform, Pulumi, Ansible<br>
+Monitoring: Prometheus, Grafana, ELK Stack<br>
+Databases: PostgreSQL, MongoDB, MySQL<br>
+Languages: Python, Shell, JavaScript, Typescript<br>
+Tools: Git, Jenkins, Linux, GitHub Actions<br><br>
+
+$ echo $EXPERIENCE<br>
+20+ years designing scalable infrastructure<br>
+Cloud migrations, CI/CD automation, SRE practices<br><br>
+
+$ cat ~/.bashrc | grep "favorite_food"<br>
+favorite_food=("BBQ" "Burger" "Pasticho" "Sushi")<br><br>
+
+$ cat ~/.bashrc | grep "hobbies"<br>
+hobbies=("Football" "Table Tennis" "Cinema" "Beach" "Coding" "Travel")<br><br>
+
+$ systemctl status motivation<br>
+● motivation.service - Always Learning & Evolving<br>
+     Loaded: loaded (/etc/systemd/motivation)<br>
+     Active: active (running) since 2003-10-01<br>
+     Status: "Building the future, one deployment at a time"<br><br>
+
+$ echo "Current mood: ☀️ 72°F"<br>
+Current mood: ☀️ 72°F<br><br>
+
+$ _
+</div>
   
   ## 🚀 Skills & Technologies
   
