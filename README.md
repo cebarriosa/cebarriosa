@@ -1,5 +1,5 @@
 
-# 👨‍💻 Cesar Barrios - Cloud & DevOps Engineer
+# 👨‍💻 CEBA - Cloud & DevOps Engineer
 
 <!-- Console section - left aligned like a real terminal -->
 <div style="background-color: #000000; padding: 20px; border-radius: 8px; margin: 20px auto; max-width: 800px; border: 2px solid #00ff00;">
