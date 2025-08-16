@@ -1,45 +1,42 @@
-<div align="center">
-  
-  # 👨‍💻 Cloud & DevOps Engineer
-  
-</div>
+
+# 👨‍💻 Cloud & DevOps Engineer
 
 <!-- Console section - left aligned like a real terminal -->
-<div style="background-color: #000000 !important; color: #00ff00 !important; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 14px; line-height: 1.4; border: 2px solid #00ff00;">
-<code style="color: #00ff00 !important;">
-$ whoami<br>
-Cloud & DevOps Engineer with 20+ years of experience<br><br>
+<div style="background-color: #000000; padding: 15px; border-radius: 8px; margin: 20px auto; max-width: 800px; font-family: 'Courier New', monospace; font-size: 16px; line-height: 1.4; border: 2px solid #00ff00;">
+<pre style="color: #00ff00; margin: 0; background: transparent; border: none; font-family: inherit; font-size: inherit;">
+$ whoami
+Cloud & DevOps Engineer with 20+ years of experience
 
-$ cat skills.txt<br>
-Cloud Platforms: AWS, GCP, Azure<br>
-Containers: Docker, Kubernetes<br>
-IaC: Terraform, Pulumi, Ansible<br>
-Monitoring: Prometheus, Grafana, ELK Stack<br>
-Databases: PostgreSQL, MongoDB, MySQL<br>
-Languages: Python, Shell, JavaScript, Typescript<br>
-Tools: Git, Jenkins, Linux, GitHub Actions<br><br>
+$ cat skills.txt
+Cloud Platforms: AWS, GCP, Azure
+Containers: Docker, Kubernetes
+IaC: Terraform, Pulumi, Ansible
+Monitoring: Prometheus, Grafana, ELK Stack
+Databases: PostgreSQL, MongoDB, MySQL
+Languages: Python, Shell, JavaScript, Typescript
+Tools: Git, Jenkins, Linux, GitHub Actions
 
-$ echo $EXPERIENCE<br>
-20+ years designing scalable infrastructure<br>
-Cloud migrations, CI/CD automation, SRE practices<br><br>
+$ echo $EXPERIENCE
+20+ years designing scalable infrastructure
+Cloud migrations, CI/CD automation, SRE practices
 
-$ cat ~/.bashrc | grep "favorite_food"<br>
-favorite_food=("BBQ" "Burger" "Pasticho" "Sushi")<br><br>
+$ cat ~/.bashrc | grep "favorite_food"
+favorite_food=("BBQ" "Burger" "Pasticho" "Sushi")
 
-$ cat ~/.bashrc | grep "hobbies"<br>
-hobbies=("Football" "Table Tennis" "Cinema" "Beach" "Coding" "Travel")<br><br>
+$ cat ~/.bashrc | grep "hobbies"
+hobbies=("Football" "Table Tennis" "Cinema" "Beach" "Coding" "Travel")
 
-$ systemctl status motivation<br>
-● motivation.service - Always Learning & Evolving<br>
-     Loaded: loaded (/etc/systemd/motivation)<br>
-     Active: active (running) since 2003-10-01<br>
-     Status: "Building the future, one deployment at a time"<br><br>
+$ systemctl status motivation
+● motivation.service - Always Learning & Evolving
+     Loaded: loaded (/etc/systemd/motivation)
+     Active: active (running) since 2003-10-01
+     Status: "Building the future, one deployment at a time"
 
-$ echo "Current mood: ☀️ 72°F"<br>
-Current mood: ☀️ 72°F<br><br>
+$ echo "Current mood: ☀️ 72°F"
+Current mood: ☀️ 72°F
 
 $ _
-</code>
+</pre>
 </div>
 
 <div align="center">
