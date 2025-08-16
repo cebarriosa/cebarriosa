@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://storage.googleapis.com/ceba-static/logos/avatar.png" alt="Profile Avatar" width="200" height="200" style="border-radius: 50%; border: 4px solid #157738;">
   
   # 👨‍💻 Cloud & DevOps Engineer
   
