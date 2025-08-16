@@ -2,15 +2,42 @@
   
   # 👨‍💻 Cloud & DevOps Engineer
   
-  <div style="background-color: #000; color: #00ff00; padding: 20px; border-radius: 10px; margin: 20px 0; max-width: 800px;">
-    <p style="font-size: 16px; line-height: 1.6; margin: 0; font-family: 'Courier New', monospace;">
-      Experienced Cloud and DevOps Engineer with 20+ years of experience designing and
-      maintaining scalable, high-performance infrastructure. Proven success in managing cloud
-      migrations, implementing IaC, automating CI/CD pipelines, and ensuring operational continuity.
-      Adept at bridging development and operations teams through strong communication and
-      technical leadership.
-    </p>
-  </div>
+         ```bash
+ # @cebarriosa ~ $ whoami
+ # Cloud & DevOps Engineer with 20+ years of experience
+ 
+ # @cebarriosa ~ $ cat skills.txt
+ # Cloud Platforms: AWS, GCP, Azure
+ # Containers: Docker, Kubernetes
+ # IaC: Terraform, Pulumi, Ansible
+ # Monitoring: Prometheus, Grafana, ELK Stack
+ # Databases: PostgreSQL, MongoDB, MySQL
+ # Languages: Python, Shell, JavaScript, Typescript
+ # Tools: Git, Jenkins, Linux, GitHub Actions
+ 
+ # @cebarriosa ~ $ echo $EXPERIENCE
+ # 20+ years designing scalable infrastructure
+ # Cloud migrations, CI/CD automation, SRE practices
+ 
+ # @cebarriosa ~ $ cat ~/.bashrc | grep "favorite_food"
+ # favorite_food=("BBQ" "Burger" "Pizza" "Sushi")
+ # export favorite_food
+ 
+ # @cebarriosa ~ $ cat ~/.bashrc | grep "hobbies"
+ # hobbies=("Football" "Table Tennis" "Cinema" "Beach" "Coding" "Travel")
+ # export hobbies
+ 
+ # @cebarriosa ~ $ systemctl status motivation
+ # ● motivation.service - Always Learning & Evolving
+ #      Loaded: loaded (/etc/systemd/motivation)
+ #      Active: active (running) since 2003-10-01
+ #      Status: "Building the future, one deployment at a time"
+ 
+ # @cebarriosa ~ $ echo "Current mood: $(curl -s wttr.in/?format='%C+%t')"
+ # Current mood: ☀️ 72°F
+ 
+ # @cebarriosa ~ $ _
+     ```
   
   ## 🚀 Skills & Technologies
   
@@ -47,3 +74,4 @@
   
   ---
 </div>
+
