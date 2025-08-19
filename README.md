@@ -41,6 +41,17 @@ $ _
 </pre>
 </div>
 
+## 📋 Want to Know More About Me?
+
+<div align="center">
+  <a href="https://ceba-resume.web.app/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="View My Resume">
+  </a>
+  <p style="margin: 20px 0; color: #666; font-size: 16px;">
+    👆 Click above to explore my detailed professional experience, projects, and achievements
+  </p>
+</div>
+
 <div align="center">
   
   ## 🚀 Skills & Technologies
